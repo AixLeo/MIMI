@@ -1,6 +1,6 @@
 # 简介
-哈密是一款帮助用户自动生成密码的开源软件。用户只需要记住一个密码，即可为不同的网站生成密码。  
-哈密通过**记忆密码**（HMAC的Key）+**区分代号**（HMAC的Message）计算生成密码。
+MIMI是一款帮助用户自动生成密码的开源软件。用户只需要记住一个密码，即可为不同的网站生成密码。  
+MIMI通过**记忆密码**（HMAC的Key）+**区分代号**（HMAC的Message）计算生成密码。
 1. 基于[HMAC-MD5](https://en.wikipedia.org/wiki/HMAC)，前端实时计算，无需后台储存，更加安全。
 2. 提供跨平台支持，包括`Mac`, `Windows`, `iOS`, `Android`, `Chrome`等
 
